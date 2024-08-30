@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhi Jhirwal</h1>
 <h3 align="center">I am a programmer from India</h3>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+4bHii+057;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=4bHii-057-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="4bHii-057"/>
-      <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=4bHii-057-IN&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
-   </td>  
- </tr>  
-</table>
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/TtiBW6mrtmEzuafN9">
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :
-</b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4bHii-057&label=Profile%20views&color=0e75b6&style=flat" alt="4bHii-057" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4bHii-057" alt="4bHii-057" /></a> </p>
