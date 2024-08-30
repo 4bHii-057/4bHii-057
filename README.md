@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhi Jhirwal</h1>
 <h3 align="center">I am a programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/TtiBW6mrtmEzuafN9">
+<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/TtiBW6mrtmEzuafN9](https://media0.giphy.com/media/okWCAjMp0pInC/giphy.gif?cid=6c09b952pbjc3eb1u6qxwdqgvxvt99unjv3vot3tqj8k53cn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4bHii-057&label=Profile%20views&color=0e75b6&style=flat" alt="4bHii-057" /> </p>
 
